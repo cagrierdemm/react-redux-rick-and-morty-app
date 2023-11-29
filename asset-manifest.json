@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-redux-notes-app/static/css/main.ecd67758.css",
-    "main.js": "/react-redux-notes-app/static/js/main.51a90be4.js",
-    "static/js/787.7a696670.chunk.js": "/react-redux-notes-app/static/js/787.7a696670.chunk.js",
-    "index.html": "/react-redux-notes-app/index.html",
-    "main.ecd67758.css.map": "/react-redux-notes-app/static/css/main.ecd67758.css.map",
-    "main.51a90be4.js.map": "/react-redux-notes-app/static/js/main.51a90be4.js.map",
-    "787.7a696670.chunk.js.map": "/react-redux-notes-app/static/js/787.7a696670.chunk.js.map"
+    "main.css": "/react-redux-rick-and-morty-app/static/css/main.ecd67758.css",
+    "main.js": "/react-redux-rick-and-morty-app/static/js/main.0483ce9f.js",
+    "static/js/787.7a696670.chunk.js": "/react-redux-rick-and-morty-app/static/js/787.7a696670.chunk.js",
+    "index.html": "/react-redux-rick-and-morty-app/index.html",
+    "main.ecd67758.css.map": "/react-redux-rick-and-morty-app/static/css/main.ecd67758.css.map",
+    "main.0483ce9f.js.map": "/react-redux-rick-and-morty-app/static/js/main.0483ce9f.js.map",
+    "787.7a696670.chunk.js.map": "/react-redux-rick-and-morty-app/static/js/787.7a696670.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecd67758.css",
-    "static/js/main.51a90be4.js"
+    "static/js/main.0483ce9f.js"
   ]
 }
