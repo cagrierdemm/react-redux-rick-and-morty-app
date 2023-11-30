@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-redux-rick-and-morty-app/static/css/main.ecd67758.css",
+    "main.css": "/react-redux-rick-and-morty-app/static/css/main.1c552926.css",
     "main.js": "/react-redux-rick-and-morty-app/static/js/main.1f5a9875.js",
     "static/js/787.7a696670.chunk.js": "/react-redux-rick-and-morty-app/static/js/787.7a696670.chunk.js",
     "index.html": "/react-redux-rick-and-morty-app/index.html",
-    "main.ecd67758.css.map": "/react-redux-rick-and-morty-app/static/css/main.ecd67758.css.map",
+    "main.1c552926.css.map": "/react-redux-rick-and-morty-app/static/css/main.1c552926.css.map",
     "main.1f5a9875.js.map": "/react-redux-rick-and-morty-app/static/js/main.1f5a9875.js.map",
     "787.7a696670.chunk.js.map": "/react-redux-rick-and-morty-app/static/js/787.7a696670.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecd67758.css",
+    "static/css/main.1c552926.css",
     "static/js/main.1f5a9875.js"
   ]
 }
